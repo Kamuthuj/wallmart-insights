@@ -1,1 +1,3 @@
-Used SQL scripts to do data analysis on sales of different Walmart stores to check on business trends and used a Tableau dashboard to do visualization.
+![sql](https://github.com/Kamuthuj/wallmart-insights/assets/121629618/797d1b2c-4bf7-4317-b19a-82842c240e31)
+
+
